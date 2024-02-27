@@ -10,7 +10,7 @@
 * PHP 
 
 # Image
-![github](https://en.wikipedia.org/wiki/File:GitHub_Invertocat_Logo.svg)
+![github](https://avatars.githubusercontent.com/u/159715058?v=4)
 
 #Link
-![github](https://en.wikipedia.org/wiki/GitHub)
+![github](https://github.com/dhruvpatel2910)
